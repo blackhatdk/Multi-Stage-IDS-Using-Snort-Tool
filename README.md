@@ -28,7 +28,7 @@ In the rapidly evolving landscape of cybersecurity, a robust intrusion detection
 - Simulate an attack in the VM by using Nmap in Kali
 
 
-## **Usage of Process**
+# **Usage of Process**
 - In this project, we'll be looking at Snort from the CLI in Ubuntu Linux. To check if you already have Snort installed, use the command `Snort -V`.
 - If Snort isn't already installed, do so by performing `sudo apt-get install snort`.
 - In the terminal, run ifconfig to find out the name of your interface and your IP address
